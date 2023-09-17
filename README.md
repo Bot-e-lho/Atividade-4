@@ -21,3 +21,4 @@
 ###### <>
 ###### Obs.: Código feito em aula não compila. 
 ###### Obs. 2: Foram necessários alguns "Wrong Answer" para que eu chegasse ao código final, acredito que tenha valido a pena já que, no final, uma das tentativas finalmente foi aceita.
+###### Obs. 3: O código não possui Leak de memória, foi algo que acabei me esquecendo de falar e mostrar no vídeo.
