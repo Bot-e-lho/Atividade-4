@@ -11,9 +11,9 @@
 
 ##### Foram testados 3 exemplos.
 ###### Exemplos utilizados: 
-###### Ex. 1: Input: Intervals = , Expected = 
-###### Ex. 2: Input: Intervals = , Expected = 
-###### Ex. 3: Input: Intervals = , Expected = 
+###### Ex. 1: Input: Intervals = {[1, 5],[7, 9],[11, 13],[15, 17]} , Expected = {[1, 5],[7, 9],[11, 13],[15, 17]}
+###### Ex. 2: Input: Intervals = {[1, 3],[2, 5],[7, 11]} , Expected = {[1, 5] [7, 11]}
+###### Ex. 3: Input: Intervals = {[1, 5],[4, 9],[11, 13],[13, 17],[20, 29]}, Expected = {[1, 9] [11, 17] [20, 29]}
 
 ## Mudanças no código
 #### Algumas mudanças foram feitas do código feito em aula, porém creio que mantive a lógica a qual eu havia deixado comentado.
